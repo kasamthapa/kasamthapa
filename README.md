@@ -1,23 +1,70 @@
-<h1 align="center">Hi 👋, I'm Kasam Thapa Magar</h1>
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasamthapa" alt="kasamthapa" /></a> </p>
+# Kasam Thapa Magar
 
-- 🔭 I’m currently working on **codebrain**
+### Full Stack Developer • AI Engineer in Progress • Backend Enthusiast
 
-- 🌱 I’m currently learning **RAG,GenAI,System Design**
+Building AI-powered developer tools, scalable backend systems, and products that solve real problems.
 
-- 👨‍💻 All of my projects are available at [kasamthapa.com.np](kasamthapa.com.np)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kasamthapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasamthapa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kasamthapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasamthapa" height="30" width="40" /></a>
+<p>
+  <a href="https://kasamthapa.com.np">Portfolio</a> •
+  <a href="https://linkedin.com/in/kasamthapa">LinkedIn</a> •
+  <a href="https://twitter.com/kasamthapa">Twitter/X</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+CodeBrain;Learning+RAG+%26+AI+Agents;Backend+Engineering+%26+System+Design;Turning+Ideas+Into+Products" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasamthapa&show_icons=true&locale=en&layout=compact" alt="kasamthapa" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasamthapa&" alt="kasamthapa" /></p>
+---
+
+## 👨‍💻 Who Am I?
+
+I'm a developer from Nepal focused on building products, not just projects.
+
+Currently obsessed with:
+
+- AI-powered developer tools
+- Retrieval-Augmented Generation (RAG)
+- System Design
+- Backend Architecture
+- Developer Experience (DX)
+
+---
+
+## 🚀 Current Mission
+
+### 🧠 CodeBrain
+
+An AI-powered platform that helps developers understand unfamiliar codebases through intelligent repository analysis.
+
+**Key Areas**
+
+- Repository ingestion
+- Semantic code search
+- RAG pipelines
+- LLM integration
+- Conversation memory
+- System design for scale
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,react,nextjs,mongodb,postgres,docker,git,tailwind,html,css,postman&perline=7" />
+
+</div>
+
+### Currently Exploring
+
+```text
+RAG
+Vector Databases
+AI Agents
+System Design
+Redis
+Message Queues
+Microservices
+Observability
