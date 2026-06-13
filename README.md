@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Kasam%20Thapa%20Magar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20in%20Progress&descAlignY=58"/>
+</p>
 # Kasam Thapa Magar
 
 ### Full Stack Developer • AI Engineer in Progress • Backend Enthusiast
