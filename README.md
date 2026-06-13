@@ -1,72 +1,79 @@
+<!-- Header -->
 <div align="center">
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Kasam%20Thapa%20Magar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20in%20Progress&descAlignY=58"/>
-</p>
+
+```
+~/kasam $
+```
+
 # Kasam Thapa Magar
 
-### Full Stack Developer • AI Engineer in Progress • Backend Enthusiast
+*Not the smartest person in the room — just the one who keeps showing up.*
 
-Building AI-powered developer tools, scalable backend systems, and products that solve real problems.
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://kasamthapa.com.np)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kasamthapa)
+[![Twitter](https://img.shields.io/badge/twitter%2Fx-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/kasamthapa)
 
-<p>
-  <a href="https://kasamthapa.com.np">Portfolio</a> •
-  <a href="https://linkedin.com/in/kasamthapa">LinkedIn</a> •
-  <a href="https://twitter.com/kasamthapa">Twitter/X</a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+CodeBrain;Learning+RAG+%26+AI+Agents;Backend+Engineering+%26+System+Design;Turning+Ideas+Into+Products" />
+![Profile Views](https://komarev.com/ghpvc/?username=kasamthapa&color=2D6A4F&style=flat-square&label=visitors)
 
 </div>
 
 ---
 
-## 👨‍💻 Who Am I?
+**Curious by default. Building AI-powered developer tools from Kathmandu.**
 
-I'm a developer from Nepal focused on building products, not just projects.
-
-Currently obsessed with:
-
-- AI-powered developer tools
-- Retrieval-Augmented Generation (RAG)
-- System Design
-- Backend Architecture
-- Developer Experience (DX)
+I go deep on things that interest me — right now that's RAG pipelines, backend systems, and DSA.
+I build things to understand them, and I understand things to build better ones.
 
 ---
 
-## 🚀 Current Mission
+### → projects
 
-### 🧠 CodeBrain
+**[critch](https://critch-neon.vercel.app)** &nbsp;·&nbsp; `live`
+A peer review platform for developers — post your project, get structured feedback, build reputation.
+Built from scratch. Every line written and understood by me.
+`React` `Node.js` `PostgreSQL` `TypeScript` `Prisma` `JWT`
 
-An AI-powered platform that helps developers understand unfamiliar codebases through intelligent repository analysis.
+<br>
 
-**Key Areas**
-
-- Repository ingestion
-- Semantic code search
-- RAG pipelines
-- LLM integration
-- Conversation memory
-- System design for scale
+**codebrain** &nbsp;·&nbsp; `in progress`
+Point it at any GitHub repo. Ask how the auth works. Get answers grounded in the actual code.
+RAG pipeline over codebases — not a tutorial clone.
+`RAG` `pgvector` `PostgreSQL` `Node.js` `TypeScript` `LLM`
 
 ---
 
-## 🛠️ Tech Arsenal
+### → now
+
+```text
+learning  →  DSA in JavaScript · NeetCode roadmap · daily
+building  →  CodeBrain · RAG pipeline over GitHub repos
+target    →  remote full stack role · month 4 onwards
+reading   →  how retrieval quality actually affects LLM output
+```
+
+---
+
+### → stack
+
+```text
+strong    →  TypeScript · JavaScript · React · Node.js · Express · PostgreSQL · Prisma
+learning  →  pgvector · RAG · Redis · Docker
+```
+
+---
+
+### → stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,react,nextjs,mongodb,postgres,docker,git,tailwind,html,css,postman&perline=7" />
+![Kasam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasamthapa&show_icons=true&theme=dark&bg_color=0A0A0A&border_color=1A1A1A&icon_color=2D6A4F&title_color=F0F0F0&text_color=666666&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasamthapa&layout=compact&theme=dark&bg_color=0A0A0A&border_color=1A1A1A&title_color=F0F0F0&text_color=666666)
 
 </div>
 
-### Currently Exploring
+---
 
-```text
-RAG
-Vector Databases
-AI Agents
-System Design
-Redis
-Message Queues
-Microservices
-Observability
+<div align="center">
+<sub>building in public · open to remote work · kathmandu, nepal</sub>
+</div>
