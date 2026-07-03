@@ -1,0 +1,43 @@
+<svg width="760" height="340" viewBox="0 0 760 340" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', 'Fira Code', monospace">
+  <defs>
+    <clipPath id="round">
+      <rect x="0" y="0" width="760" height="340" rx="10" ry="10"/>
+    </clipPath>
+    <radialGradient id="glow" cx="50%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#7cc86a" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#7cc86a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="760" height="340" fill="#0f120d"/>
+    <rect width="760" height="340" fill="url(#glow)"/>
+
+    <rect width="760" height="40" fill="#14170f"/>
+    <line x1="0" y1="40" x2="760" y2="40" stroke="#2a2f26" stroke-width="1"/>
+    <circle cx="24" cy="20" r="5" fill="#4a4f42"/>
+    <circle cx="42" cy="20" r="5" fill="#4a4f42"/>
+    <circle cx="60" cy="20" r="5" fill="#4a4f42"/>
+    <text x="86" y="24" font-size="12" fill="#5c6354">kasam — ~/projects</text>
+
+    <g font-size="14">
+      <text x="28" y="78" fill="#5c6354">$ ls -la ~/projects</text>
+
+      <!-- critch -->
+      <text x="28" y="116"><tspan fill="#7cc86a">drwxr-xr-x</tspan><tspan fill="#5c6354">  critch</tspan><tspan fill="#e0a458">  [live]</tspan></text>
+      <text x="52" y="140" fill="#c9d1c4">a peer review platform for developers.</text>
+      <text x="52" y="162" fill="#c9d1c4">post your project, get structured feedback, build reputation.</text>
+      <text x="52" y="184" fill="#5c6354">react · node.js · postgresql · typescript · prisma</text>
+
+      <line x1="28" y1="204" x2="732" y2="204" stroke="#2a2f26" stroke-width="1"/>
+
+      <!-- codebrain -->
+      <text x="28" y="234"><tspan fill="#7cc86a">drwxr-xr-x</tspan><tspan fill="#5c6354">  codebrain</tspan><tspan fill="#8a9180">  [in progress]</tspan></text>
+      <text x="52" y="258" fill="#c9d1c4">point it at any github repo, ask how the auth works,</text>
+      <text x="52" y="280" fill="#c9d1c4">get answers grounded in the actual code.</text>
+      <text x="52" y="302" fill="#5c6354">rag · pgvector · postgresql · node.js · typescript</text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="759" height="339" rx="10" ry="10" fill="none" stroke="#2a2f26" stroke-width="1"/>
+</svg>
