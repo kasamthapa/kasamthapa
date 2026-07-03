@@ -8,10 +8,10 @@ Right now I'm going deep on RAG pipelines and backend systems, and working throu
 
 ### Working on
 
-**[critch](https://critch-neon.vercel.app)**
+**[critch](https://critch-neon.vercel.app)**:
 A peer review platform for developers. Post a project, get structured feedback, build reputation.
 
-**codebrain**
+**codebrain**:
 Point it at a GitHub repo, ask how something works, get answers grounded in the actual code. RAG over codebases, not a tutorial clone.
 
 ---
