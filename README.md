@@ -11,11 +11,11 @@
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kasamthapa">
+  <a href="https://www.linkedin.com/in/kasamthapamagar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=2D6A4F"/>
   </a>
   &nbsp;
-  <a href="https://twitter.com/kasamthapa">
+  <a href="https://twitter.com/kasamthapa89">
     <img src="https://img.shields.io/badge/Twitter%2FX-0A0A0A?style=flat-square&logo=x&logoColor=2D6A4F"/>
   </a>
   &nbsp;
