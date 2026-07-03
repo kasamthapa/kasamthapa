@@ -5,22 +5,10 @@
 <br>
 
 <div align="center">
-  <code>~/kasam $</code>
+  <img src="./assets/hero.svg" width="700" alt="whoami"/>
 </div>
 
 <br>
-
-<h1 align="center" style="font-weight: 600; letter-spacing: -1px;">Kasam Thapa Magar</h1>
-
-<p align="center">
-  <em>Not the smartest person in the room — just the one who keeps showing up.</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-0A0A0A?style=for-the-badge&logoColor=2D6A4F"/>
-  <img src="https://img.shields.io/badge/AI%20Builder-0A0A0A?style=for-the-badge&logoColor=2D6A4F"/>
-  <img src="https://img.shields.io/badge/Kathmandu%2C%20Nepal-0A0A0A?style=for-the-badge&logoColor=2D6A4F"/>
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/kasamthapa">
@@ -40,73 +28,23 @@
 
 <br>
 
----
-
-```text
-Curious by default. Building AI-powered developer tools from Kathmandu.
-I go deep on things that interest me — right now that's RAG pipelines,
-backend systems, and DSA. I build things to understand them.
-```
-
----
+<div align="center">
+  <img src="./assets/projects.svg" width="700" alt="projects"/>
+</div>
 
 <br>
 
-### `→ projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[critch](https://critch-neon.vercel.app)** &nbsp;`live`
-
-A peer review platform for developers.
-Post your project, get structured feedback, build reputation.
-Built from scratch — every line written and understood by me.
-
-`React` `Node.js` `PostgreSQL` `TypeScript` `Prisma`
-
-</td>
-<td width="50%" valign="top">
-
-**codebrain** &nbsp;`in progress`
-
-Point it at any GitHub repo.
-Ask how the auth works.
-Get answers grounded in the actual code.
-
-RAG pipeline over codebases — not a tutorial clone.
-
-`RAG` `pgvector` `PostgreSQL` `Node.js` `TypeScript`
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./assets/now.svg" width="700" alt="now"/>
+</div>
 
 <br>
-
----
-
-### `→ now`
-
-```text
-learning  →  DSA in JavaScript · NeetCode roadmap · daily
-building  →  CodeBrain · RAG pipeline over GitHub repos
-reading   →  how retrieval quality actually affects LLM output
-target    →  remote full stack role · month 4 onwards
-```
-
----
-
-### `→ stack`
 
 <div align="center">
   <img src="./assets/stack.svg" width="700" alt="stack"/>
 </div>
 
----
-
-### `→ stats`
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kasamthapa&show_icons=true&theme=dark&bg_color=0D1117&border_color=2D6A4F&icon_color=2D6A4F&title_color=ffffff&text_color=888888&ring_color=2D6A4F" width="49%"/>
@@ -119,7 +57,7 @@ target    →  remote full stack role · month 4 onwards
   </a>
 </div>
 
----
+<br>
 
 <div align="center">
   <sub><code>building in public · open to remote work · kathmandu, nepal</code></sub>
