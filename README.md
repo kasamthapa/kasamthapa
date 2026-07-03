@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1200&color=2D6A4F&center=true&vCenter=true&width=460&lines=building+AI-powered+developer+tools;RAG+pipelines+%2B+backend+systems;curious+by+default"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-0A0A0A?style=for-the-badge&logoColor=2D6A4F"/>
   <img src="https://img.shields.io/badge/AI%20Builder-0A0A0A?style=for-the-badge&logoColor=2D6A4F"/>
   <img src="https://img.shields.io/badge/Kathmandu%2C%20Nepal-0A0A0A?style=for-the-badge&logoColor=2D6A4F"/>
@@ -42,7 +46,7 @@
 
 ---
 
-```
+```text
 Curious by default. Building AI-powered developer tools from Kathmandu.
 I go deep on things that interest me — right now that's RAG pipelines,
 backend systems, and DSA. I build things to understand them.
@@ -62,7 +66,6 @@ backend systems, and DSA. I build things to understand them.
 
 A peer review platform for developers.
 Post your project, get structured feedback, build reputation.
-
 Built from scratch — every line written and understood by me.
 
 `React` `Node.js` `PostgreSQL` `TypeScript` `Prisma`
@@ -92,7 +95,7 @@ RAG pipeline over codebases — not a tutorial clone.
 
 ```text
 learning  →  DSA in JavaScript · NeetCode roadmap · daily
-building  →  CodeBrain · RAG pipeline over GitHub repos  
+building  →  CodeBrain · RAG pipeline over GitHub repos
 reading   →  how retrieval quality actually affects LLM output
 target    →  remote full stack role · month 4 onwards
 ```
@@ -111,13 +114,14 @@ learning  →  pgvector · RAG · Redis · Docker
 ### `→ stats`
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kasamthapa&show_icons=true&theme=dark&bg_color=0D1117&border_color=2D6A4F&icon_color=2D6A4F&title_color=ffffff&text_color=888888&ring_color=2D6A4F" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasamthapa&layout=compact&theme=dark&bg_color=0D1117&border_color=2D6A4F&title_color=ffffff&text_color=888888" width="34%"/>
+</div>
 
-![Kasam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasamthapa&show_icons=true&theme=dark&bg_color=0D1117&border_color=2D6A4F&icon_color=2D6A4F&title_color=ffffff&text_color=888888&ring_color=2D6A4F)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasamthapa&layout=compact&theme=dark&bg_color=0D1117&border_color=2D6A4F&title_color=ffffff&text_color=888888)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kasamthapa&theme=dark&background=0D1117&border=2D6A4F&ring=2D6A4F&fire=2D6A4F&currStreakLabel=2D6A4F)](https://git.io/streak-stats)
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=kasamthapa&theme=dark&background=0D1117&border=2D6A4F&ring=2D6A4F&fire=2D6A4F&currStreakLabel=2D6A4F"/>
+  </a>
 </div>
 
 ---
