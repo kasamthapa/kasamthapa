@@ -17,10 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1200&color=2D6A4F&center=true&vCenter=true&width=460&lines=building+AI-powered+developer+tools;RAG+pipelines+%2B+backend+systems;curious+by+default"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-0A0A0A?style=for-the-badge&logoColor=2D6A4F"/>
   <img src="https://img.shields.io/badge/AI%20Builder-0A0A0A?style=for-the-badge&logoColor=2D6A4F"/>
   <img src="https://img.shields.io/badge/Kathmandu%2C%20Nepal-0A0A0A?style=for-the-badge&logoColor=2D6A4F"/>
@@ -104,10 +100,9 @@ target    →  remote full stack role · month 4 onwards
 
 ### `→ stack`
 
-```text
-strong    →  TypeScript · JavaScript · React · Node.js · Express · PostgreSQL · Prisma
-learning  →  pgvector · RAG · Redis · Docker
-```
+<div align="center">
+  <img src="./assets/stack.svg" width="700" alt="stack"/>
+</div>
 
 ---
 
