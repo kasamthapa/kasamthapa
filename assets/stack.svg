@@ -1,1 +1,53 @@
+<svg width="760" height="360" viewBox="0 0 760 360" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', 'Fira Code', monospace">
+  <defs>
+    <clipPath id="round">
+      <rect x="0" y="0" width="760" height="360" rx="10" ry="10"/>
+    </clipPath>
+    <radialGradient id="glow" cx="50%" cy="0%" r="75%">
+      <stop offset="0%" stop-color="#7cc86a" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#7cc86a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
 
+  <g clip-path="url(#round)">
+    <rect width="760" height="360" fill="#0f120d"/>
+    <rect width="760" height="360" fill="url(#glow)"/>
+
+    <!-- title bar -->
+    <rect width="760" height="40" fill="#14170f"/>
+    <line x1="0" y1="40" x2="760" y2="40" stroke="#2a2f26" stroke-width="1"/>
+    <circle cx="24" cy="20" r="5" fill="#4a4f42"/>
+    <circle cx="42" cy="20" r="5" fill="#4a4f42"/>
+    <circle cx="60" cy="20" r="5" fill="#4a4f42"/>
+    <text x="86" y="24" font-size="12" fill="#5c6354">kasam — stack.json</text>
+
+    <!-- body -->
+    <g font-size="14" fill="#c9d1c4">
+      <text x="28" y="76" fill="#5c6354">$ cat stack.json</text>
+
+      <text x="28" y="112" fill="#8a9180">{</text>
+
+      <text x="28" y="140"><tspan fill="#e0a458">"strong"</tspan><tspan fill="#5c6354">: [</tspan></text>
+      <text x="52" y="164">
+        <tspan fill="#7cc86a">"TypeScript"</tspan><tspan fill="#5c6354">, </tspan><tspan fill="#7cc86a">"JavaScript"</tspan><tspan fill="#5c6354">, </tspan><tspan fill="#7cc86a">"React"</tspan><tspan fill="#5c6354">,</tspan>
+      </text>
+      <text x="52" y="188">
+        <tspan fill="#7cc86a">"Node.js"</tspan><tspan fill="#5c6354">, </tspan><tspan fill="#7cc86a">"Express"</tspan><tspan fill="#5c6354">, </tspan><tspan fill="#7cc86a">"PostgreSQL"</tspan><tspan fill="#5c6354">,</tspan>
+      </text>
+      <text x="52" y="212">
+        <tspan fill="#7cc86a">"Prisma"</tspan>
+      </text>
+      <text x="28" y="236" fill="#5c6354">],</text>
+
+      <text x="28" y="264"><tspan fill="#e0a458">"learning"</tspan><tspan fill="#5c6354">: [</tspan></text>
+      <text x="52" y="288">
+        <tspan fill="#e8ecdf">"pgvector"</tspan><tspan fill="#5c6354">, </tspan><tspan fill="#e8ecdf">"RAG"</tspan><tspan fill="#5c6354">, </tspan><tspan fill="#e8ecdf">"Redis"</tspan><tspan fill="#5c6354">, </tspan><tspan fill="#e8ecdf">"Docker"</tspan>
+      </text>
+      <text x="28" y="312" fill="#5c6354">]</text>
+
+      <text x="28" y="340" fill="#8a9180">}</text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="759" height="359" rx="10" ry="10" fill="none" stroke="#2a2f26" stroke-width="1"/>
+</svg>
