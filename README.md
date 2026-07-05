@@ -9,7 +9,7 @@ Full stack developer in Kathmandu, building AI-powered developer tools. Going de
 
 ---
 
-Stack:TypeScript, React, Node.js, Express, PostgreSQL, Prisma
+Stack: TypeScript, React, Node.js, Express, PostgreSQL, Prisma
 
 Learning: pgvector, RAG, Redis, Docker
 
