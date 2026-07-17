@@ -4,7 +4,7 @@ Full stack developer in Kathmandu, building AI-powered developer tools. Going de
 ---
 
 - **[critch](https://critch-neon.vercel.app)** — a peer review platform for developers. Post a project, get structured feedback, build reputation.
-- **codebrain** — point it at a GitHub repo, ask how something works, get an answer grounded in the actual code. [live](https://codebrain-gamma.vercel.app)
+- **[codebrain](https://codebrain-gamma.vercel.app)** — point it at a GitHub repo, ask how something works, get an answer grounded in the actual code.
 
 ---
 
