@@ -1,17 +1,33 @@
-# Kasam Thapa Magar
-Full stack developer in Kathmandu, building AI-powered developer tools. Going deep on RAG pipelines and backend systems right now.
+<div align="center">
+  <img src="./assets/hero.svg" alt="Kasam Thapa Magar" width="760" />
+</div>
 
----
+<div align="center">
+  <sub><a href="https://kasamthapa.com.np">kasamthapa.com.np</a></sub>
+</div>
 
-- **[critch](https://critch-neon.vercel.app)** — a peer review platform for developers. Post a project, get structured feedback, build reputation.
-- **[codebrain](https://codebrain-gamma.vercel.app)** — point it at a GitHub repo, ask how something works, get an answer grounded in the actual code.
+<br />
 
----
+<div align="center">
+  <img src="./assets/now.svg" alt="what I'm doing now" width="760" />
+</div>
 
-Stack: TypeScript, React, Node.js, Express, PostgreSQL, Prisma, pgvector, RAG, Gemini API
+<br />
 
-Learning: Redis, Docker, System Design
+<div align="center">
+  <img src="./assets/projects.svg" alt="projects" width="760" />
+</div>
 
----
+<br />
 
-[LinkedIn](https://linkedin.com/in/kasamthapamagar) · [X](https://twitter.com/kasamthapa89)
+<div align="center">
+  <img src="./assets/stack.svg" alt="stack" width="760" />
+</div>
+
+<br />
+
+<div align="center">
+
+[Portfolio](https://kasamthapa.com.np) · [critch](https://critch-neon.vercel.app) · [codebrain](https://codebrain-gamma.vercel.app) · [LinkedIn](https://linkedin.com/in/kasamthapamagar) · [X](https://twitter.com/kasamthapa89)
+
+</div>
