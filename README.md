@@ -38,4 +38,4 @@ Full stack developer in Kathmandu, Nepal — building AI-powered developer tools
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0d0f0c?style=flat-square&logo=googlechrome&logoColor=7cc86a)](https://kasamthapa.com.np)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kasamthapamagar)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/kasamthapa89)
+[![X](https://twitter.com/kasamthapa89)
