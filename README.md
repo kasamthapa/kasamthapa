@@ -28,6 +28,7 @@ Full stack developer in Kathmandu, Nepal — building AI-powered developer tools
 ![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 **Learning:**
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![System Design](https://img.shields.io/badge/-System%20Design-6E56CF?style=flat-square&logo=readthedocs&logoColor=white)
 
